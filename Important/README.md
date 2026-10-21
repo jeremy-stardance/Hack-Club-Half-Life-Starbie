@@ -9,7 +9,7 @@ This is my pcb design for the tamagochi-esque project. It should read temperatur
 
 I seem to have lost the actual schematic file, but here is the full screenshot of the schematic, which I see no reason doesn't work to prove I made one.
 
-![image alt](Images/Schematic.png)
+![image alt](https://github.com/jeremy-stardance/Hack-Club-Half-Life-Starbie/blob/main/Images/Schematic.png)
 
 Here is the schematic screenshot. The DHT11 and MPU6050 are my sensors, and the nets are labelled rather than connected by visual wires.
 
