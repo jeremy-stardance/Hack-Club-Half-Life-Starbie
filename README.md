@@ -8,3 +8,7 @@ This is my pcb design for the tamagochi-esque project. It should read temperatur
 ![schematic](Schematic.png)
 
 Here is the schematic screenshot. The DHT11 is my sensor, and the nets are labelled rather than connected by visual wires.
+
+![BOM](bom.csv)
+
+This is my Bill of Materials in $USD. I am using the ESP32 as my 'brain' for the code.
