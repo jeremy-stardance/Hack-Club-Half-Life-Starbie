@@ -5,6 +5,10 @@ My files for Half-Life week 1.
 
 This is my pcb design for the tamagochi-esque project. It should read temperature and movement to create responses, which can be interacted with using buttons.
 
+## Schematic
+
+I seem to have lost the actual schematic file, but here is the full screenshot of the schematic, which I see no reason doesn't work to prove I made one.
+
 ![schematic](Schematic.png)
 
 Here is the schematic screenshot. The DHT11 and MPU6050 are my sensors, and the nets are labelled rather than connected by visual wires.
