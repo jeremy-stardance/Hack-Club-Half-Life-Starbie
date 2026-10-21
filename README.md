@@ -7,8 +7,19 @@ This is my pcb design for the tamagochi-esque project. It should read temperatur
 
 ![schematic](Schematic.png)
 
-Here is the schematic screenshot. The DHT11 is my sensor, and the nets are labelled rather than connected by visual wires.
+Here is the schematic screenshot. The DHT11 and MPU6050 are my sensors, and the nets are labelled rather than connected by visual wires.
 
-![BOM](bom.csv)
+## Bill of Materials
+
+| Component | Quantity | Cost ($) |
+|---|---:|---:|
+| OLED Display 0.96 inch | 1 | 6.10 |
+| ESP32-C3 Supermini | 1 | 4.40 |
+| 10k Resistor | 1 | 1.42 |
+| MX Buttons | 1 | 5.15 |
+| DHT11 | 1 | 2.30 |
+| PCB Developement Board | 1 | 6.59 |
+| MPU6050 | 1 | 3.29 |
+| Shipping | 1 | 3.74 |
 
 This is my Bill of Materials in $USD. I am using the ESP32 as my 'brain' for the code.
