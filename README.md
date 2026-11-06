@@ -1,7 +1,7 @@
 # Hack-Club-Half-Life-Starbie
 My files for Half-Life week 1.
 
-![image alt](https://github.com/jeremy-stardance/Hack-Club-Half-Life-Starbie/blob/main/Images/Screenshot%202026-10-22%20104034.png)
+![image alt](https://github.com/jeremy-stardance/Hack-Club-Half-Life-Starbie/blob/main/PCB.png)
 This is my pcb design for the tamagochi-esque project. It should read temperature and movement to create responses, which can be interacted with using buttons.
 
 ## Schematic
